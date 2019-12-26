@@ -8,9 +8,9 @@ With ML Kit's face detection API, you can detect faces in an image, identify key
 With face detection, you can get the information you need to perform tasks like embellishing selfies and portraits or generating avatars from a user's photo. Because ML Kit can perform face detection in real time, you can use it in applications like video chat or games that respond to the player's expressions.
 Face detection is the process of automatically locating human faces in visual media (digital images or videos). A face that is detected is reported at a position with an associated size and orientation. Once a face is detected, it can be searched for landmarks such as the eyes and nose.
 When talking about face recognition in firebase we must know some key features. Let’s talk about the key factors so you can easily get an idea what the hell is this.
-•	Face tracking
-•	Landmark 
-•	Contour 
+•	Face tracking</br>
+•	Landmark </br>
+•	Contour </br>
 •	Classification 
 
 Face tracking
