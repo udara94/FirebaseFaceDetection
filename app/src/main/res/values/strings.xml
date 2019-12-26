@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="need_permission">Need permission to access files</string>
+    <string name="camera_permission">Need permission to access the camera</string>
+    <string name="error">Nothing detected</string>
+</resources>
